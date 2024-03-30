@@ -1,0 +1,42 @@
+[
+    {
+        "productName": "Abstract 3D",
+        "stockAmount": "32",
+        "totalSales": 20,
+        "price": 45.99,
+        "additionalData": {
+            "image": "https://www.panasonic.com/content/dam/pim/in/en/TH/TH-32J/TH-32J200DX/ast-1570267.png.pub.png?resize=272%3A204",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil officia, consequatur optio ab at neque delectus"
+        }
+    },
+    {
+        "productName": "Abstract 3D",
+        "stockAmount": "32",
+        "totalSales": 20,
+        "price": 45.99,
+        "additionalData": {
+            "image": "https://www.panasonic.com/content/dam/pim/in/en/TH/TH-32J/TH-32J200DX/ast-1570267.png.pub.png?resize=272%3A204",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil officia, consequatur optio ab at neque delectus"
+        }
+    },
+    {
+        "productName": "Abstract 3D",
+        "stockAmount": "32",
+        "totalSales": 20,
+        "price": 45.99,
+        "additionalData": {
+            "image": "https://www.panasonic.com/content/dam/pim/in/en/TH/TH-32J/TH-32J200DX/ast-1570267.png.pub.png?resize=272%3A204",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil officia, consequatur optio ab at neque delectus"
+        }
+    },
+    {
+        "productName": "Abstract 3D",
+        "stockAmount": "32",
+        "totalSales": 20,
+        "price": 45.99,
+        "additionalData": {
+            "image": "https://www.panasonic.com/content/dam/pim/in/en/TH/TH-32J/TH-32J200DX/ast-1570267.png.pub.png?resize=272%3A204",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil officia, consequatur optio ab at neque delectus"
+        }
+    }
+]

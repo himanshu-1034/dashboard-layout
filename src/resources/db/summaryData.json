@@ -1,0 +1,42 @@
+[
+    {
+        "category": "earning",
+        "label": "Earning",
+        "deviation": {
+            "percent": "37.8",
+            "positive": true
+        },
+        "amount": "198K",
+        "currency": "$"
+    },
+    {
+        "category": "orders",
+        "label": "Orders",
+        "deviation": {
+            "percent": "2",
+            "positive": false
+        },
+        "amount": "2.4K",
+        "currency": "$"
+    },
+    {
+        "category": "balance",
+        "label": "Balance",
+        "deviation": {
+            "percent": "2",
+            "positive": false
+        },
+        "amount": "2.4K",
+        "currency": "$"
+    },
+    {
+        "category": "totalsales",
+        "label": "Total Sales",
+        "deviation": {
+            "percent": "11",
+            "positive": true
+        },
+        "amount": "89K",
+        "currency": "$"
+    }
+]
